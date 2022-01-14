@@ -1,0 +1,10 @@
+{
+  "Name": "StarDo",
+  "Author": "cwille97",
+  "Version": "1.0.0",
+  "Description": "A to-do list for Stardew Valley",
+  "UniqueID": "cwille97.stardo",
+  "EntryDll": "StarDo.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
